@@ -37,7 +37,8 @@ History should not be forgotten, only recorded.
 - 如果不想通过 GitHub 在线的方式贡献，可以发送相关内容到 evilamerica@163.com。
 - 目前维护人力不足，如果有兴趣参与维护，可以发送 GitHub 账号到上面的邮箱。
 
-![捐赠，感谢您的一份力量](https://github.com/evil-america/evil-america.github.io/blob/master/pay.jpg)
+                  捐赠，感谢您的一份力量   
+<img src="https://github.com/evil-america/evil-america.github.io/blob/master/pay.jpg" width="300" height="320" />
 
 
 

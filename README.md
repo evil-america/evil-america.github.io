@@ -2,7 +2,7 @@
 # Evil Amerca - 美国作过的恶 
 
 ## 简介(Abstract)
-在利益面前，与美国签订的合约显得太单薄，随时都可能被单方面撕毁，你家和美国签约还好吗？ 
+在利益面前，与美国签订的合约显得太单薄，随时都可能被单方面撕毁，你家和美国签约还好吗？   
 In the face of interests, the contract signed with the United States seems too thin, which may be torn up at any time by the single side. Is it OK for your family to sign with the United States?  
 美国标榜自由、民主，却凌驾于世界之上，出现事故后，一个真诚的道歉极为困难。  
 The United States boasts freedom and democracy, but it is superior to the world. After the accident, a sincere apology is extremely difficult.  
@@ -37,7 +37,7 @@ History should not be forgotten, only recorded.
 - 如果不想通过 GitHub 在线的方式贡献，可以发送相关内容到 evilamerica@163.com。
 - 目前维护人力不足，如果有兴趣参与维护，可以发送 GitHub 账号到上面的邮箱。
 
-![捐赠，感谢您的一份力量](./pay.jpg)
+![捐赠，感谢您的一份力量](https://github.com/evil-america/evil-america.github.io/blob/master/pay.jpg)
 
 
 

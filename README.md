@@ -2,12 +2,12 @@
 # Evil Amerca - 美国作过的恶 
 
 ## 简介(Abstract)
-在利益面前，与美国签订的合约显得太单薄，随时都可能被单方面撕毁，你家和美国签约还好吗？
-In the face of interests, the contract signed with the United States seems too thin, which may be torn up at any time by the single side. Is it OK for your family to sign with the United States?
-美国标榜自由、民主，却凌驾于世界之上，出现事故后，一个真诚的道歉极为困难。
-The United States boasts freedom and democracy, but it is superior to the world. After the accident, a sincere apology is extremely difficult.
-历史不应该被遗忘，仅以记录。
-History should not be forgotten, only recorded.
+在利益面前，与美国签订的合约显得太单薄，随时都可能被单方面撕毁，你家和美国签约还好吗？ 
+In the face of interests, the contract signed with the United States seems too thin, which may be torn up at any time by the single side. Is it OK for your family to sign with the United States?  
+美国标榜自由、民主，却凌驾于世界之上，出现事故后，一个真诚的道歉极为困难。  
+The United States boasts freedom and democracy, but it is superior to the world. After the accident, a sincere apology is extremely difficult.  
+历史不应该被遗忘，仅以记录。  
+History should not be forgotten, only recorded.  
 
 ## 目录(Catalog)
 - [美国空袭致伊朗将军身亡，震动全球资本市场(US air strikes to Iran)](./events/美国空袭致伊朗将军身亡，震动全球资本市场/)

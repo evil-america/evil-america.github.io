@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evil-huawei/evil-huawei.git"
+    "url": "git+https://github.com/evil-america/evil-america.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/evil-huawei/evil-huawei/issues"
+    "url": "https://github.com/evil-america/issues"
   },
-  "homepage": "https://github.com/evil-huawei/evil-huawei#readme",
+  "homepage": "https://github.com/evil-america#readme",
   "dependencies": {
     "husky": "^3.1.0"
   },

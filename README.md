@@ -38,7 +38,8 @@ History should not be forgotten, only recorded.
 - 目前维护人力不足，如果有兴趣参与维护，可以发送 GitHub 账号到上面的邮箱。
 
                   捐赠，感谢您的一份力量   
-     <img src="https://github.com/evil-america/evil-america.github.io/blob/master/pay.jpg" width="300" height="320" alt="img" />    
+                  
+     <img src="https://mybb1-1251137975.cos.ap-chengdu.myqcloud.com/pay.jpg" width="300" height="340" alt="img" />    
 
 
 
